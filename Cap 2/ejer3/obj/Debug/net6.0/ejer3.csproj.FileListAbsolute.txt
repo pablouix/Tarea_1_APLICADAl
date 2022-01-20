@@ -1,0 +1,15 @@
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\bin\Debug\net6.0\ejer3.exe
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\bin\Debug\net6.0\ejer3.deps.json
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\bin\Debug\net6.0\ejer3.runtimeconfig.json
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\bin\Debug\net6.0\ejer3.dll
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\bin\Debug\net6.0\ref\ejer3.dll
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\bin\Debug\net6.0\ejer3.pdb
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\obj\Debug\net6.0\ejer3.csproj.AssemblyReference.cache
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\obj\Debug\net6.0\ejer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\obj\Debug\net6.0\ejer3.AssemblyInfoInputs.cache
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\obj\Debug\net6.0\ejer3.AssemblyInfo.cs
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\obj\Debug\net6.0\ejer3.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\obj\Debug\net6.0\ejer3.dll
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\obj\Debug\net6.0\ref\ejer3.dll
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\obj\Debug\net6.0\ejer3.pdb
+C:\Users\Pablo Darinel Burgos\Documents\2022 primer semestre UCNE\PROG APLICADA l - LUNES - 6\teoria\primera tarea\Cap 2\ejer3\obj\Debug\net6.0\ejer3.genruntimeconfig.cache
